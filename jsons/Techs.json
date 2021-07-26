@@ -345,7 +345,7 @@
 			{
 				"name": "Industrial Tech",
 				"row": 5,
-				"prerequisites": ["Chemistry", "Metallurgy", "Architecture", "Navigation",],
+				"prerequisites": ["Chemistry", "Metallurgy", "Architecture", "Navigation", "Economics",],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			}
