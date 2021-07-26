@@ -843,7 +843,7 @@
 		"movement": 2,
 		"strength": 14,
 		"rangedStrength": 20,
-		"cost": 185,
+		"cost": 235,
 		"requiredTech": "Chemistry",
 		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
 		"attackSound": "cannon"
